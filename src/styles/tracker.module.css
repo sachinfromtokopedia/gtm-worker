@@ -1,0 +1,13 @@
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.trackerCta {
+    margin-top: 50px;
+    padding: 20px;
+}
